@@ -1,1 +1,1 @@
-# Simple-Blog-using-Flask
+# Simple Blog using Flask
